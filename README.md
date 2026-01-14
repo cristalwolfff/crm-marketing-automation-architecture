@@ -26,14 +26,14 @@ Para este case, trabalhei com limitações técnicas propositais para exercitar 
 O objetivo não é apenas dar "oi", mas validar a compra complexa e iniciar a mudança de comportamento do cliente.
 * **Estratégia Neural:** Uso de viés de confirmação para parabenizar pela "decisão inteligente" (economia financeira).
 * **App Adoption:** Incentivo ao download do App para que o cliente monitore a geração de energia (o "ganho" real do produto).
-
+- [📄 Ver Fluxos Visuais](./journey.pdf)
 ---
 
 ### 2. Jornada Logística (Tracking & Instalação)
 Uma régua **desacoplada** focada exclusivamente na operação. O objetivo é reduzir o *No-Show* (cliente não estar em casa) e o volume de chamados no SAC.
 * **Gatilhos:** Lembretes automáticos em T-3 e T-1 dia da instalação.
 * **Gestão de Crise:** Fluxo automatizado para reagendamento em caso de falha na visita.
-
+- [📄 Ver Fluxos Visuais](./logistica.pdf) 
 
 ---
 
