@@ -27,9 +27,6 @@ O objetivo não é apenas dar "oi", mas validar a compra complexa e iniciar a mu
 * **Estratégia Neural:** Uso de viés de confirmação para parabenizar pela "decisão inteligente" (economia financeira).
 * **App Adoption:** Incentivo ao download do App para que o cliente monitore a geração de energia (o "ganho" real do produto).
 
-*(Coloque aqui a imagem do seu PDF 'Journey_Welcome')*
-`![Fluxo da Jornada de Boas Vindas](caminho-da-imagem-journey.png)`
-
 ---
 
 ### 2. Jornada Logística (Tracking & Instalação)
@@ -37,8 +34,6 @@ Uma régua **desacoplada** focada exclusivamente na operação. O objetivo é re
 * **Gatilhos:** Lembretes automáticos em T-3 e T-1 dia da instalação.
 * **Gestão de Crise:** Fluxo automatizado para reagendamento em caso de falha na visita.
 
-*(Coloque aqui a imagem do seu PDF 'Logistica')*
-`![Fluxo da Jornada Logística](caminho-da-imagem-logistica.png)`
 
 ---
 
