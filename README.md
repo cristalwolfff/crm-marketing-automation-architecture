@@ -53,10 +53,12 @@ A inteligência do projeto está na **Modelagem de Dados** (Data Extensions) que
 
 ---
 
-## 📂 Documentação
-- [📄 Ver Documentação Técnica Completa (PDF)](./case_solar.pdf)
-- [📄 Ver Fluxos Visuais](./journey.pdf)
-- [📄 Ver Fluxos Visuais](./logistica.pdf) 
+## 📂 Documentação Completa (Download)
+Clique abaixo para acessar os arquivos originais com todo o detalhamento técnico:
+
+- 📕 **[Ler Documentação Técnica Completa (PDF)](case_solar.pdf)**
+- 🗺️ **[Ver Diagrama de Welcome (PDF)](journey.pdf)**
+- 🚛 **[Ver Diagrama de Logística (PDF)](logistica.pdf)**
 
 ---
 *Desenvolvido por [Cristalwolf](https://github.com/cristalwolfff)*
